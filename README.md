@@ -5,20 +5,20 @@ This python program will allow you to extract text from an image
 ## :key: Prerequisites
 Open cv 
 
-Pytesseract
+
 
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/Puneesh6280/OCR.git
+$ https://github.com/Puneesh6280/Car-detection.git
 ```
  2. Change your directory to the cloned repo 
 ```
-$ cd OCR
+$ cd Car detection
 ```
 Run the python file ocr.py
 ```
-python ocr.py
+python car.py
 ```
 
 ## :clap: And it's done!
