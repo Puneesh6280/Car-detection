@@ -20,7 +20,7 @@ $ https://github.com/Puneesh6280/Car-detection.git
 ```
 $ cd Car detection
 ```
-Run the python file ocr.py
+Run the python file car.py
 ```
 python car.py
 ```
