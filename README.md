@@ -1,7 +1,11 @@
-# OCR
+# Car detection
+
+
+![image](https://user-images.githubusercontent.com/76698487/118390366-541eb380-b64c-11eb-8c0f-082e65a31367.png)
+
 
 ## :star: Features
-This python program will allow you to extract text from an image 
+This python program will allow you to detect cars using your webcam.
 ## :key: Prerequisites
 Open cv 
 
